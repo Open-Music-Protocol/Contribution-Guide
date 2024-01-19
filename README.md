@@ -10,3 +10,9 @@ However, if you file a bug report, your issue should contain a title and a clear
 Remember, bug reports are created in the hope that others with the same problem will be able to collaborate with you on solving it. Do not expect that the bug report will automatically see any activity or that others will jump to fix it. Creating a bug report serves to help yourself and others start on the path of fixing the problem.
 
 ## Which Branch?
+
+All bug fixes should be sent to the latest version that supports bug fixes. Bug fixes should never be sent to the master branch unless they fix features that exist only in the upcoming release.
+
+Minor features that are fully backward compatible with the current release may be sent to the latest stable branch.
+
+Major new features or features with breaking changes should always be sent to the master branch, which contains the upcoming release.
