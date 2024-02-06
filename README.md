@@ -1,5 +1,5 @@
-# OMP Contribution Guide
-Open Music Protocol Contribution Guide
+# Song Protocol Contribution Guide
+Song Protocol Contribution Guide
 
 ## Bug Reports
 
